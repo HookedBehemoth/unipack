@@ -1,0 +1,9 @@
+[package]
+name = "unipack"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.72"
+flate2 = "1.0.26"
+tar = "0.4.39"
